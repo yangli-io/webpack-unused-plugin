@@ -2,7 +2,7 @@
 
 ## Installation
 
-```
+```bash
 npm install webpack-unused-plugin
 ```
 
